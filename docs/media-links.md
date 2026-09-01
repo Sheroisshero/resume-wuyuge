@@ -52,6 +52,13 @@
 - **链接：** [https://news.dayoo.com/finance/202412/17/171077_54762432.htm](https://news.dayoo.com/finance/202412/17/171077_54762432.htm)
 - **说明：** 广州市政府采购中心连续三年入选全国公共采购优秀案例，体现工作成果的行业认可度
 
+### 7. 广州交易集团大型活动（借调期间全权策划组织）
+
+- **标题：** （微信公众号文章）
+- **来源：** 广州交易集团官方微信公众号
+- **链接：** [https://mp.weixin.qq.com/s/DgCUyzoeZnnOlSrVsFn6Mg](https://mp.weixin.qq.com/s/DgCUyzoeZnnOlSrVsFn6Mg)
+- **说明：** 借调广州交易集团组织人事部期间，由本人全权策划组织的集团大型活动报道
+
 ---
 
 ## 📌 其他公开链接
