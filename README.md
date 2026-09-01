@@ -43,7 +43,7 @@
 - **荣誉：** 国家奖学金、省优秀毕业生、优秀毕业论文特等奖（2/566）、MCM/ICM 美国大学生数学建模竞赛 M奖、一等奖学金、优秀学生
 - **证书：** 高级系统架构师（工信部）
 - **核心课程：** 数据库应用、JAVA、软件测试、系统分析、数据结构
-- **海外交流：** Mitacs Globalink 加拿大本科生研究实习项目（留基委全额资助，维多利亚大学，2018.08–2019.01）
+- **海外交流：** Mitacs Globalink 加拿大本科生研究实习项目（留基委全额资助，维多利亚大学，2018.08–2019.01）| [官方公示](https://iecd.csu.edu.cn/info/1015/4112.htm)
 - **其他教育：** 和君商学院（已毕业）
 
 ### 湖南师范大学附属中学 | 高中
@@ -120,6 +120,8 @@
 - **2022.10–2024.10：** 历任综合管理部、采购文件编制部、采购项目评审部办事员，扎根一线理解业务
 - **2025.07–2025.10：** 借调十五运会和残特奥会广州赛区执委会接待部，作为项目负责人完成全国首例"全运会接待酒店公开招标"（预算**2.2亿元**），形成需求调查等50余份近千页汇编文献
 - **2026.01–2026.06：** 借调广州交易集团组织人事部，拓展工程建设招投标、国有产权交易、碳排放权交易等全要素视野
+
+**媒体报道：** [广州政采"亮真招"跑出"加速度"](http://www.cgpnews.cn/articles/66979) | [连续三年入选全国公共采购优秀案例](https://news.dayoo.com/finance/202412/17/171077_54762432.htm)
 
 ### 长沙市开福区学广培训学校有限公司
 **联合创始人 & 运营负责人** | 2019.07 – 2022.10
@@ -229,6 +231,8 @@
 
 ### 中南大学第二十届校礼仪队队长
 - 统筹首届校礼仪风采大赛及20周年庆典，吸引200余名杰出校友返校
+- 组织国旗班与礼仪队工作汇报会 | [官方报道](https://bs.csu.edu.cn/info/1046/1386.htm)
+- 毕业季专题报道"年华的样子" | [红网](https://hn.rednet.cn/content/2019/07/08/5699035.html) / [百家号](https://baijiahao.baidu.com/s?id=1638481488086654755&wfr=spider&for=pc)
 - 负责团队管理、活动策划、对外联络
 
 ### 广东省采购服务标准化技术委员会（GD/TC 121）秘书处负责人
@@ -248,6 +252,20 @@
 | [Caiyi-Agent-Platform](https://github.com/Sheroisshero/Caiyi-Agent-Platform) | 全国首个公共采购智能体协同管理平台技术方案与架构设计 | Multi-Agent · LLM+RAG · Function Call · Workflow · Knowledge Graph |
 | [bid-evaluation-behavior-recognition](https://github.com/Sheroisshero/bid-evaluation-behavior-recognition) | 多模态AI远程异地评标专家异常行为识别系统 | CV · ASR · 多模态融合 · 边缘AI · Agent工作流 |
 | [ai-assisted-content-analysis](https://github.com/Sheroisshero/ai-assisted-content-analysis) | NUS科研项目：AI辅助定性文本分析（脱敏版） | Embeddings · LLM · NLP · Human-in-the-Loop |
+
+---
+
+## 📚 文档导航
+
+| 文档 | 说明 |
+|------|------|
+| [docs/about.md](docs/about.md) | 个人简介与职业轨迹 |
+| [docs/education.md](docs/education.md) | 教育背景详览（高中→本科→硕士） |
+| [docs/experience.md](docs/experience.md) | 工作经历详览 |
+| [docs/projects.md](docs/projects.md) | 核心项目详览 |
+| [docs/awards.md](docs/awards.md) | 获奖与荣誉（15项） |
+| [docs/certificates.md](docs/certificates.md) | 证书与知识产权汇总（含扫描件） |
+| [docs/media-links.md](docs/media-links.md) | 媒体报道与公开链接 |
 
 ---
 
