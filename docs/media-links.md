@@ -70,6 +70,17 @@
 - **说明：** 本人独立撰写的行业文章，围绕广州政采智能化转型实践，探讨从合规审查到价值创造的路径
 ---
 
+
+### 9. 十五运会接待酒店采购项目（全国首例，本人任项目负责人）
+
+- **需求征求意见公告**：[广东省政府采购网](https://gdgpo.czt.gd.gov.cn/freecms/site/gd/ggxx/info/2024/8a7e419b90a6c54b0190c3db7b2272f6.html?noticeType=001059)
+- **第一批采购项目招标公告（省网）**：[广东省政府采购网](https://gdgpo.czt.gd.gov.cn/freecms/site/gd/ggxx/info/2024/8a7ebfac913cd337019178fa41654f99.html?noticeType=001011)
+- **第一批采购项目招标公告（交易中心）**：[广州公共资源交易中心](https://www.gzggzy.cn/jyywzfcgzfcgcggg/1008151.jhtml)
+- **十五运会广东赛区项目**：[中国政府采购网](https://www.ccgp.gov.cn/cggg/dfgg/gkzb/202508/t20250819_25188422.htm)
+- **十五运会氛围营造项目**：[广东省政府采购网](https://gdgpo.czt.gd.gov.cn/maincms-web/noticeGd?type=notice&id=da9fe07c-865a-4dd7-8527-59255ad9d711&channel=fca71be5-fc0c-45db-96af-f513e9abda9d&noticeType=001011&openTenderCode=CZ2025-0959&channelName=%E9%A1%B9%E7%9B%AE%E9%87%87%E8%B4%AD%E5%85%AC%E5%91%8A)
+- **说明：** 全国首例"全运会接待酒店公开招标"，预算2.2亿元，无先例可循，本人作为项目负责人全权策划组织
+---
+
 ## 📌 其他公开链接
 
 ### 项目相关

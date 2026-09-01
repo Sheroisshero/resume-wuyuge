@@ -118,7 +118,7 @@
 
 - **2024.10–2026.07：** 统筹13人团队（8人政府采购+5人AI技术研发），主导全采购链条创新研发
 - **2022.10–2024.10：** 历任综合管理部、采购文件编制部、采购项目评审部办事员，扎根一线理解业务
-- **2025.07–2025.10：** 借调十五运会和残特奥会广州赛区执委会接待部，作为项目负责人完成全国首例"全运会接待酒店公开招标"（预算**2.2亿元**），形成需求调查等50余份近千页汇编文献
+- **2025.07–2025.10：** 借调十五运会和残特奥会广州赛区执委会接待部，作为项目负责人完成全国首例"全运会接待酒店公开招标"（预算**2.2亿元**），形成需求调查等50余份近千页汇编文献 | [需求征求意见公告](https://gdgpo.czt.gd.gov.cn/freecms/site/gd/ggxx/info/2024/8a7e419b90a6c54b0190c3db7b2272f6.html?noticeType=001059) | [招标公告（省网）](https://gdgpo.czt.gd.gov.cn/freecms/site/gd/ggxx/info/2024/8a7ebfac913cd337019178fa41654f99.html?noticeType=001011) | [招标公告（交易中心）](https://www.gzggzy.cn/jyywzfcgzfcgcggg/1008151.jhtml)
 - **2026.01–2026.06：** 借调广州交易集团组织人事部，拓展工程建设招投标、国有产权交易、碳排放权交易等全要素视野，协助薪酬核算、绩效考核、干部管理工作，全权策划组织集团大型活动 | [活动报道](https://mp.weixin.qq.com/s/DgCUyzoeZnnOlSrVsFn6Mg)
 
 **媒体报道：** [广州政采"亮真招"跑出"加速度"](http://www.cgpnews.cn/articles/66979) | [连续三年入选全国公共采购优秀案例](https://news.dayoo.com/finance/202412/17/171077_54762432.htm)
@@ -252,7 +252,7 @@
 - 推动行业标准化建设
 
 ### 十五运会接待酒店招标项目负责人
-- 全国首例"全运会接待酒店公开招标"，预算2.2亿元
+- 全国首例"全运会接待酒店公开招标"，预算2.2亿元，无先例可循 | [广东赛区项目](https://www.ccgp.gov.cn/cggg/dfgg/gkzb/202508/t20250819_25188422.htm) | [氛围营造项目](https://gdgpo.czt.gd.gov.cn/maincms-web/noticeGd?type=notice&id=da9fe07c-865a-4dd7-8527-59255ad9d711&channel=fca71be5-fc0c-45db-96af-f513e9abda9d&noticeType=001011&openTenderCode=CZ2025-0959&channelName=%E9%A1%B9%E7%9B%AE%E9%87%87%E8%B4%AD%E5%85%AC%E5%91%8A)
 - 无先例可循，形成50余份近千页汇编文献
 
 ---
