@@ -1,4 +1,4 @@
-# 吴宇歌 | Yuge Wu
+﻿# 吴宇歌 | Yuge Wu
 
 <div align="center">
 
@@ -226,6 +226,18 @@
 > 📎 完整知识产权清单：[docs/certificates.md](docs/certificates.md) | 彩翼平台知识产权详情：[Caiyi-Agent-Platform](https://github.com/Sheroisshero/Caiyi-Agent-Platform/blob/main/docs/intellectual-property.md)
 
 ---
+
+---
+
+## ✍️ 个人作品与发表
+
+### 行业文章
+
+| 时间 | 标题 | 发表平台 | 链接 |
+|------|------|---------|------|
+| 2026 | 从合规到创效！广州政采如何"智"领风骚？ | 中国招标（微信公众号） | [🔗 阅读原文](https://mp.weixin.qq.com/s/S4kM_nM-MnwKJL8NiZFQVQ) |
+
+> 本文为本人独立撰写，围绕广州市政府采购中心在智能化转型中的实践与思考，探讨从合规审查到价值创造的路径。
 
 ## 🌟 其他亮点
 
