@@ -81,6 +81,18 @@
 - **说明：** 全国首例"全运会接待酒店公开招标"，预算2.2亿元，无先例可循，本人作为项目负责人全权策划组织
 ---
 
+
+### 10. CSDN技术博客：AI技术扫盲贴
+
+- **标题：** AI技术扫盲贴🧠 一份面向入门者的AI核心技术全景指南
+- **作者：** Yuge Wu
+- **平台：** CSDN
+- **发布日期：** 2026-09-01
+- **链接：** [https://blog.csdn.net/2601_94990104/article/details/164293557](https://blog.csdn.net/2601_94990104/article/details/164293557)
+- **内容涵盖：** 向量检索算法（HNSW/IVF/DiskANN）、Faiss开源项目、常见Embedding模型、RAG优化前沿论文（5篇）、SFT/DPO/PPO/GRPO/Reward Model全面解读
+- **版权：** CC 4.0 BY-SA
+---
+
 ## 📌 其他公开链接
 
 ### 项目相关
