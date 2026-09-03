@@ -292,6 +292,50 @@
 
 ---
 
+## 🛠️ My favorite tools and technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
+  <img src="https://img.shields.io/badge/Milvus-00A7E1?style=for-the-badge&logo=milvus&logoColor=white" alt="Milvus" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
+
+---
+
+## 🔑 个人关键词 | Keywords
+
+<p align="center">
+  <span style="font-size: 2.2em; color: #E74C3C; font-weight: bold;">数学</span>
+  &nbsp;&nbsp;
+  <span style="font-size: 1.5em; color: #3498DB;">Mathematical Modeling</span>
+  &nbsp;&nbsp;
+  <span style="font-size: 1.9em; color: #2ECC71; font-weight: bold;">数学竞赛</span>
+  &nbsp;&nbsp;
+  <span style="font-size: 1.3em; color: #9B59B6;">Fast Learner</span>
+  &nbsp;&nbsp;
+  <span style="font-size: 1.7em; color: #F39C12; font-weight: bold;">逻辑思维</span>
+  &nbsp;&nbsp;
+  <span style="font-size: 1.4em; color: #1ABC9C;">Leadership</span>
+  &nbsp;&nbsp;
+  <span style="font-size: 1.8em; color: #E67E22; font-weight: bold;">能干活·会干活·能出活</span>
+  &nbsp;&nbsp;
+  <span style="font-size: 1.6em; color: #E91E63; font-weight: bold;">从0到1</span>
+  &nbsp;&nbsp;
+  <span style="font-size: 1.2em; color: #34495E;">AI Agent</span>
+  &nbsp;&nbsp;
+  <span style="font-size: 1.3em; color: #00BCD4;">Problem Solver</span>
+</p>
+
+---
+
+
 <div align="center">
 
 *最后更新：2026年9月 | 本页面为在线简历，持续更新中*
