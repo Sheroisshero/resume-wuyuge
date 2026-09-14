@@ -323,7 +323,15 @@
 ## 🔑 个人关键词 | Keywords
 
 <p align="center">
-  <img src="assets/wordcloud-keywords.png" alt="个人关键词词云" width="90%" />
+  <img src="assets/wordcloud-keywords.png" alt="个人关键词词云（中文版）" width="90%" />
+</p>
+
+<p align="center">
+  <strong>English Version</strong>
+</p>
+
+<p align="center">
+  <img src="assets/wordcloud-keywords-en.png" alt="Personal Keywords Word Cloud (English)" width="90%" />
 </p>
 
 ---
