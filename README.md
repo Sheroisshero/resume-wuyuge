@@ -195,9 +195,11 @@
 
 ### 专业资格与语言
 
-- **FRM金融风险管理师**（GARP，2024.03）
-- **高级系统架构师**（工信部，2019）
-- **大学英语六级（CET-6）**：559分
+| 证书名称 | 颁发机构 | 获得时间 | 证书 |
+|---------|---------|---------|------|
+| FRM金融风险管理师 | GARP（全球风险管理专业人士协会） | 2024.03 | [📷](assets/certificates/frm-certificate.jpg) |
+| 高级系统架构师 | 工信部 + 人社部 | 2019.11 | [📷](assets/certificates/senior-system-architect.png) |
+| 大学英语六级（CET-6） | 教育部 | - | 559分 |
 
 > 📎 完整证书清单与扫描件：[docs/certificates.md](docs/certificates.md)
 
