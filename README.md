@@ -356,30 +356,21 @@
 
 <em>工作之外的我，也在认真生活 ✨</em>
 
-</div>
+<br><br>
 
-<div style="max-width: 800px; margin: 0 auto; overflow: hidden; position: relative;">
-  <div style="display: flex; animation: scroll 30s linear infinite; gap: 16px;">
-    <img src="assets/photos/photo1.jpg" alt="生活照1" style="height: 180px; border-radius: 8px; flex-shrink: 0; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
-    <img src="assets/photos/photo2.jpg" alt="生活照2" style="height: 180px; border-radius: 8px; flex-shrink: 0; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
-    <img src="assets/photos/photo3.jpg" alt="生活照3" style="height: 180px; border-radius: 8px; flex-shrink: 0; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
-    <img src="assets/photos/photo4.jpg" alt="生活照4" style="height: 180px; border-radius: 8px; flex-shrink: 0; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
-    <img src="assets/photos/photo5.jpg" alt="生活照5" style="height: 180px; border-radius: 8px; flex-shrink: 0; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
-    <!-- 复制一遍实现无缝滚动 -->
-    <img src="assets/photos/photo1.jpg" alt="生活照1" style="height: 180px; border-radius: 8px; flex-shrink: 0; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
-    <img src="assets/photos/photo2.jpg" alt="生活照2" style="height: 180px; border-radius: 8px; flex-shrink: 0; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
-    <img src="assets/photos/photo3.jpg" alt="生活照3" style="height: 180px; border-radius: 8px; flex-shrink: 0; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
-    <img src="assets/photos/photo4.jpg" alt="生活照4" style="height: 180px; border-radius: 8px; flex-shrink: 0; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
-    <img src="assets/photos/photo5.jpg" alt="生活照5" style="height: 180px; border-radius: 8px; flex-shrink: 0; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
-  </div>
-</div>
+<table>
+  <tr>
+    <td><img src="assets/photos/photo1.jpg" alt="生活照1" width="180" /></td>
+    <td><img src="assets/photos/photo2.jpg" alt="生活照2" width="180" /></td>
+    <td><img src="assets/photos/photo3.jpg" alt="生活照3" width="180" /></td>
+  </tr>
+  <tr>
+    <td><img src="assets/photos/photo4.jpg" alt="生活照4" width="180" /></td>
+    <td><img src="assets/photos/photo5.jpg" alt="生活照5" width="180" /></td>
+  </tr>
+</table>
 
-<style>
-@keyframes scroll {
-  0% { transform: translateX(0); }
-  100% { transform: translateX(calc(-100% / 2 - 8px)); }
-}
-</style>
+</div>
 
 ---
 
