@@ -367,6 +367,7 @@
   <tr>
     <td><img src="assets/photos/photo4.jpg" alt="生活照4" width="180" /></td>
     <td><img src="assets/photos/photo5.jpg" alt="生活照5" width="180" /></td>
+    <td><img src="assets/photos/photo6.jpg" alt="生活照6" width="180" /></td>
   </tr>
 </table>
 
