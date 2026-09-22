@@ -1,0 +1,346 @@
+{
+  "schema_version": "1",
+  "source_path": "C:\\Users\\LV\\Desktop\\吴宇歌-个人支撑材料汇总（完整版v4竖版）.pdf",
+  "source_filename": "吴宇歌-个人支撑材料汇总（完整版v4竖版）.pdf",
+  "source_hash": "5ae0f7112c76",
+  "source_size_bytes": 13669587,
+  "kind": "pdf",
+  "rendered_at_utc": "2026-09-21T06:20:57+00:00",
+  "output_dir": "C:\\Users\\LV\\Doubao\\chats\\2026-08-31\\new-chat\\resume\\.preview\\5ae0f7112c76",
+  "page_count": 35,
+  "rendered_page_count": 35,
+  "collage_count": 4,
+  "extracted_text_chars": 8675,
+  "text_relpath": "text.md",
+  "thumbnail_relpath": "thumb.jpg",
+  "pages": [
+    {
+      "page": 1,
+      "relpath": "pages\\p001.png",
+      "size_bytes": 101659,
+      "width": 1241,
+      "height": 1754
+    },
+    {
+      "page": 2,
+      "relpath": "pages\\p002.png",
+      "size_bytes": 97337,
+      "width": 1241,
+      "height": 1754
+    },
+    {
+      "page": 3,
+      "relpath": "pages\\p003.png",
+      "size_bytes": 115558,
+      "width": 1241,
+      "height": 1754
+    },
+    {
+      "page": 4,
+      "relpath": "pages\\p004.png",
+      "size_bytes": 143872,
+      "width": 1241,
+      "height": 1754
+    },
+    {
+      "page": 5,
+      "relpath": "pages\\p005.png",
+      "size_bytes": 105667,
+      "width": 1241,
+      "height": 1754
+    },
+    {
+      "page": 6,
+      "relpath": "pages\\p006.png",
+      "size_bytes": 138529,
+      "width": 1241,
+      "height": 1754
+    },
+    {
+      "page": 7,
+      "relpath": "pages\\p007.png",
+      "size_bytes": 252297,
+      "width": 1241,
+      "height": 1754
+    },
+    {
+      "page": 8,
+      "relpath": "pages\\p008.png",
+      "size_bytes": 665337,
+      "width": 1241,
+      "height": 1754
+    },
+    {
+      "page": 9,
+      "relpath": "pages\\p009.png",
+      "size_bytes": 343037,
+      "width": 1241,
+      "height": 1754
+    },
+    {
+      "page": 10,
+      "relpath": "pages\\p010.png",
+      "size_bytes": 324903,
+      "width": 1241,
+      "height": 1754
+    },
+    {
+      "page": 11,
+      "relpath": "pages\\p011.png",
+      "size_bytes": 443819,
+      "width": 1241,
+      "height": 1754
+    },
+    {
+      "page": 12,
+      "relpath": "pages\\p012.png",
+      "size_bytes": 821348,
+      "width": 1241,
+      "height": 1754
+    },
+    {
+      "page": 13,
+      "relpath": "pages\\p013.png",
+      "size_bytes": 1490947,
+      "width": 1754,
+      "height": 1241
+    },
+    {
+      "page": 14,
+      "relpath": "pages\\p014.png",
+      "size_bytes": 179222,
+      "width": 1241,
+      "height": 1754
+    },
+    {
+      "page": 15,
+      "relpath": "pages\\p015.png",
+      "size_bytes": 186427,
+      "width": 1241,
+      "height": 1754
+    },
+    {
+      "page": 16,
+      "relpath": "pages\\p016.png",
+      "size_bytes": 6357795,
+      "width": 2480,
+      "height": 1753
+    },
+    {
+      "page": 17,
+      "relpath": "pages\\p017.png",
+      "size_bytes": 358065,
+      "width": 1241,
+      "height": 1754
+    },
+    {
+      "page": 18,
+      "relpath": "pages\\p018.png",
+      "size_bytes": 1464663,
+      "width": 1241,
+      "height": 1754
+    },
+    {
+      "page": 19,
+      "relpath": "pages\\p019.png",
+      "size_bytes": 122941,
+      "width": 1241,
+      "height": 1754
+    },
+    {
+      "page": 20,
+      "relpath": "pages\\p020.png",
+      "size_bytes": 1262410,
+      "width": 1241,
+      "height": 1754
+    },
+    {
+      "page": 21,
+      "relpath": "pages\\p021.png",
+      "size_bytes": 657887,
+      "width": 1241,
+      "height": 1754
+    },
+    {
+      "page": 22,
+      "relpath": "pages\\p022.png",
+      "size_bytes": 1490710,
+      "width": 1241,
+      "height": 1754
+    },
+    {
+      "page": 23,
+      "relpath": "pages\\p023.png",
+      "size_bytes": 1097979,
+      "width": 1241,
+      "height": 1754
+    },
+    {
+      "page": 24,
+      "relpath": "pages\\p024.png",
+      "size_bytes": 1311340,
+      "width": 1241,
+      "height": 1754
+    },
+    {
+      "page": 25,
+      "relpath": "pages\\p025.png",
+      "size_bytes": 661471,
+      "width": 1241,
+      "height": 1754
+    },
+    {
+      "page": 26,
+      "relpath": "pages\\p026.png",
+      "size_bytes": 657622,
+      "width": 1241,
+      "height": 1754
+    },
+    {
+      "page": 27,
+      "relpath": "pages\\p027.png",
+      "size_bytes": 282138,
+      "width": 1241,
+      "height": 1754
+    },
+    {
+      "page": 28,
+      "relpath": "pages\\p028.png",
+      "size_bytes": 9695,
+      "width": 1240,
+      "height": 1678
+    },
+    {
+      "page": 29,
+      "relpath": "pages\\p029.png",
+      "size_bytes": 3559751,
+      "width": 1240,
+      "height": 1678
+    },
+    {
+      "page": 30,
+      "relpath": "pages\\p030.png",
+      "size_bytes": 9695,
+      "width": 1240,
+      "height": 1678
+    },
+    {
+      "page": 31,
+      "relpath": "pages\\p031.png",
+      "size_bytes": 3550462,
+      "width": 1240,
+      "height": 1678
+    },
+    {
+      "page": 32,
+      "relpath": "pages\\p032.png",
+      "size_bytes": 3546476,
+      "width": 1240,
+      "height": 1678
+    },
+    {
+      "page": 33,
+      "relpath": "pages\\p033.png",
+      "size_bytes": 68238,
+      "width": 1240,
+      "height": 1678
+    },
+    {
+      "page": 34,
+      "relpath": "pages\\p034.png",
+      "size_bytes": 371540,
+      "width": 1240,
+      "height": 1763
+    },
+    {
+      "page": 35,
+      "relpath": "pages\\p035.png",
+      "size_bytes": 239202,
+      "width": 1240,
+      "height": 1763
+    }
+  ],
+  "collages": [
+    {
+      "relpath": "collages\\c1.jpg",
+      "covers_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "grid_cols": 3,
+      "grid_rows": 3,
+      "size_bytes": 218396
+    },
+    {
+      "relpath": "collages\\c2.jpg",
+      "covers_pages": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "grid_cols": 3,
+      "grid_rows": 3,
+      "size_bytes": 227463
+    },
+    {
+      "relpath": "collages\\c3.jpg",
+      "covers_pages": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "grid_cols": 3,
+      "grid_rows": 3,
+      "size_bytes": 274193
+    },
+    {
+      "relpath": "collages\\c4.jpg",
+      "covers_pages": [
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "grid_cols": 4,
+      "grid_rows": 2,
+      "size_bytes": 333684
+    }
+  ],
+  "warnings": [],
+  "options": {
+    "max_pages": 35,
+    "collage": true,
+    "page_range": null,
+    "thumbnail": true,
+    "text_only": false,
+    "jpeg_quality": 85,
+    "out_max_dim": 2048
+  },
+  "summary": {
+    "total_pages": 35,
+    "rendered_pages": 35
+  }
+}

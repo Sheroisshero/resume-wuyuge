@@ -1,0 +1,40 @@
+{
+  "schema_version": "1",
+  "source_path": "C:\\Users\\LV\\Desktop\\test_soft5.pdf",
+  "source_filename": "test_soft5.pdf",
+  "source_hash": "5d072505da9b",
+  "source_size_bytes": 2089021,
+  "kind": "pdf",
+  "rendered_at_utc": "2026-09-21T06:36:37+00:00",
+  "output_dir": "C:\\Users\\LV\\Doubao\\chats\\2026-08-31\\new-chat\\resume\\.preview\\5d072505da9b",
+  "page_count": 1,
+  "rendered_page_count": 1,
+  "collage_count": 0,
+  "extracted_text_chars": 29,
+  "text_relpath": "text.md",
+  "thumbnail_relpath": "thumb.jpg",
+  "pages": [
+    {
+      "page": 1,
+      "relpath": "pages\\p001.png",
+      "size_bytes": 2884855,
+      "width": 1241,
+      "height": 1754
+    }
+  ],
+  "collages": [],
+  "warnings": [],
+  "options": {
+    "max_pages": 12,
+    "collage": true,
+    "page_range": null,
+    "thumbnail": true,
+    "text_only": false,
+    "jpeg_quality": 85,
+    "out_max_dim": 2048
+  },
+  "summary": {
+    "total_pages": 1,
+    "rendered_pages": 1
+  }
+}

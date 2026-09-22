@@ -1,0 +1,90 @@
+{
+  "schema_version": "1",
+  "source_path": "C:\\Users\\LV\\Desktop\\吴宇歌-个人支撑材料汇总（完整版v4竖版）.pdf",
+  "source_filename": "吴宇歌-个人支撑材料汇总（完整版v4竖版）.pdf",
+  "source_hash": "7f3717719df8",
+  "source_size_bytes": 13307981,
+  "kind": "pdf",
+  "rendered_at_utc": "2026-09-21T06:29:01+00:00",
+  "output_dir": "C:\\Users\\LV\\Doubao\\chats\\2026-08-31\\new-chat\\resume\\.preview\\7f3717719df8",
+  "page_count": 35,
+  "rendered_page_count": 6,
+  "collage_count": 1,
+  "extracted_text_chars": 584,
+  "text_relpath": "text.md",
+  "thumbnail_relpath": "thumb.jpg",
+  "pages": [
+    {
+      "page": 28,
+      "relpath": "pages\\p028.png",
+      "size_bytes": 9695,
+      "width": 1240,
+      "height": 1678
+    },
+    {
+      "page": 29,
+      "relpath": "pages\\p029.png",
+      "size_bytes": 3559751,
+      "width": 1240,
+      "height": 1678
+    },
+    {
+      "page": 30,
+      "relpath": "pages\\p030.png",
+      "size_bytes": 9695,
+      "width": 1240,
+      "height": 1678
+    },
+    {
+      "page": 31,
+      "relpath": "pages\\p031.png",
+      "size_bytes": 3550462,
+      "width": 1240,
+      "height": 1678
+    },
+    {
+      "page": 32,
+      "relpath": "pages\\p032.png",
+      "size_bytes": 3546476,
+      "width": 1240,
+      "height": 1678
+    },
+    {
+      "page": 33,
+      "relpath": "pages\\p033.png",
+      "size_bytes": 68238,
+      "width": 1240,
+      "height": 1678
+    }
+  ],
+  "collages": [
+    {
+      "relpath": "collages\\c1.jpg",
+      "covers_pages": [
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "grid_cols": 3,
+      "grid_rows": 2,
+      "size_bytes": 399804
+    }
+  ],
+  "warnings": [],
+  "options": {
+    "max_pages": 12,
+    "collage": true,
+    "page_range": "28-33",
+    "thumbnail": true,
+    "text_only": false,
+    "jpeg_quality": 85,
+    "out_max_dim": 2048
+  },
+  "summary": {
+    "total_pages": 35,
+    "rendered_pages": 6
+  }
+}

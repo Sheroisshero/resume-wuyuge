@@ -348,6 +348,41 @@
 ---
 
 
+---
+
+## 📷 生活掠影 | Life Moments
+
+<div align="center">
+
+<em>工作之外的我，也在认真生活 ✨</em>
+
+</div>
+
+<div style="max-width: 800px; margin: 0 auto; overflow: hidden; position: relative;">
+  <div style="display: flex; animation: scroll 30s linear infinite; gap: 16px;">
+    <img src="assets/photos/photo1.jpg" alt="生活照1" style="height: 180px; border-radius: 8px; flex-shrink: 0; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
+    <img src="assets/photos/photo2.jpg" alt="生活照2" style="height: 180px; border-radius: 8px; flex-shrink: 0; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
+    <img src="assets/photos/photo3.jpg" alt="生活照3" style="height: 180px; border-radius: 8px; flex-shrink: 0; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
+    <img src="assets/photos/photo4.jpg" alt="生活照4" style="height: 180px; border-radius: 8px; flex-shrink: 0; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
+    <img src="assets/photos/photo5.jpg" alt="生活照5" style="height: 180px; border-radius: 8px; flex-shrink: 0; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
+    <!-- 复制一遍实现无缝滚动 -->
+    <img src="assets/photos/photo1.jpg" alt="生活照1" style="height: 180px; border-radius: 8px; flex-shrink: 0; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
+    <img src="assets/photos/photo2.jpg" alt="生活照2" style="height: 180px; border-radius: 8px; flex-shrink: 0; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
+    <img src="assets/photos/photo3.jpg" alt="生活照3" style="height: 180px; border-radius: 8px; flex-shrink: 0; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
+    <img src="assets/photos/photo4.jpg" alt="生活照4" style="height: 180px; border-radius: 8px; flex-shrink: 0; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
+    <img src="assets/photos/photo5.jpg" alt="生活照5" style="height: 180px; border-radius: 8px; flex-shrink: 0; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
+  </div>
+</div>
+
+<style>
+@keyframes scroll {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(calc(-100% / 2 - 8px)); }
+}
+</style>
+
+---
+
 <div align="center">
 
 *最后更新：2026年9月 | 本页面为在线简历，持续更新中*
