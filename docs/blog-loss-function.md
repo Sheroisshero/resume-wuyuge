@@ -1,7 +1,7 @@
 # 损失函数是AI的"指令纸条"：它读不懂你的心，还会偷偷作弊
 
 > **NUS AI for Science · Week 8 学习笔记与思考** ｜ 作者：Yuge Wu
-> CSDN 原文：https://blog.csdn.net/2601_94990104/article/details/（发布后补充链接）
+> CSDN 原文：https://blog.csdn.net/2601_94990104/article/details/167219011
 
 如果你只记住了机器学习里的一句话，我建议是这句：
 
