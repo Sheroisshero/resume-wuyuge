@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>吴宇歌的人生曲线</title>
+<script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:100%;height:100%;overflow:hidden;font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif}
+body{background:linear-gradient(135deg,#0B2545 0%,#13315C 60%,#1a3a5c 100%);color:#fff}
+/* 左右结构：任何宽度下左图右时间线 */
+.wrap{display:flex;flex-direction:row;width:100%;height:100%;padding:20px 28px;gap:20px}
+.left{flex:1.3;display:flex;flex-direction:column;min-width:0}
+.right{flex:1;display:flex;flex-direction:column;overflow:hidden;min-width:0}
+.head{margin-bottom:8px}
+.head h1{font-size:22px;font-weight:700;letter-spacing:1px}
+.head h1 span{color:#FFD966}
+.head .sub{font-size:12.5px;color:#a8bdd6;margin-top:4px}
+#chart{flex:1;min-height:300px;background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.08);border-radius:14px}
+.timeline{flex:1;display:flex;flex-direction:column;justify-content:space-between;gap:6px}
+.node{display:flex;gap:12px;align-items:flex-start;background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.08);border-radius:10px;padding:10px 12px;transition:all .3s}
+.node:hover{background:rgba(255,255,255,.1);transform:translateX(4px)}
+.dot{width:32px;height:32px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:13px;font-weight:700;flex-shrink:0;color:#fff}
+.dot.green{background:linear-gradient(135deg,#2E7D32,#4CAF50)}
+.dot.orange{background:linear-gradient(135deg,#E65100,#FF9800)}
+.dot.red{background:linear-gradient(135deg,#C8102E,#E53935)}
+.dot.gold{background:linear-gradient(135deg,#B8860B,#FFD966);color:#0B2545}
+.dot.blue{background:linear-gradient(135deg,#1565C0,#42A5F5)}
+.dot.navy{background:linear-gradient(135deg,#0D47A1,#1976D2)}
+.txt .t{font-size:13px;font-weight:700;color:#fff}
+.txt .d{font-size:11.5px;color:#c9d6e8;margin-top:2px;line-height:1.5}
+.txt .tag{display:inline-block;font-size:10px;padding:1px 7px;border-radius:8px;margin-left:6px;font-weight:600}
+.tag-peak{background:rgba(76,175,80,.25);color:#A5D6A7}
+.tag-valley{background:rgba(255,152,0,.25);color:#FFCC80}
+.tag-burst{background:rgba(255,215,102,.25);color:#FFD966}
+/* 窄屏仍保持左右结构，压缩尺寸 */
+@media (max-width: 900px){
+  .wrap{padding:12px 14px;gap:12px}
+  .head h1{font-size:18px}
+  .head .sub{font-size:11px}
+  .node{padding:7px 9px;gap:8px}
+  .dot{width:26px;height:26px;font-size:12px}
+  .txt .t{font-size:12px}
+  .txt .d{font-size:10.5px}
+  .txt .tag{font-size:9px;padding:0 5px;margin-left:4px}
+}
+@media (max-width: 640px){
+  .wrap{gap:8px;padding:10px}
+  .left{flex:1.1}
+  .right{flex:1}
+  .head h1{font-size:15px}
+  .head .sub{font-size:9.5px;line-height:1.4}
+  .node{gap:6px}
+  .txt .d{font-size:9px}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="left">
+    <div class="head">
+      <h1>一条<span>曲折上升</span>的曲线</h1>
+      <div class="sub">吴宇歌 Yuge Wu · 从数学竞赛生到 AI 应用层建设者 · 鼠标悬停看细节</div>
+    </div>
+    <div id="chart"></div>
+  </div>
+  <div class="right">
+    <div class="timeline">
+      <div class="node"><div class="dot green">1</div><div class="txt">
+        <div class="t">数学根系 <span class="tag tag-peak">起点</span></div>
+        <div class="d">小学班长 → CGMO → 高考148。自律与逻辑思维的底层操作系统，没上清北但不后悔。</div>
+      </div></div>
+      <div class="node"><div class="dot blue">2</div><div class="txt">
+        <div class="t">中南全面生长 <span class="tag tag-peak">高峰</span></div>
+        <div class="d">信管专业第一 · 国奖 · MCM M奖 · 全国商务谈判二等奖 · 礼仪队队长。不止读书，是校园风云人物。</div>
+      </div></div>
+      <div class="node"><div class="dot gold">3</div><div class="txt">
+        <div class="t">创业与止损 <span class="tag tag-valley">转折</span></div>
+        <div class="d">放弃直博 → K12创业3校区50人1500学员 → 双减后果断关停。不是认输，是判断力。</div>
+      </div></div>
+      <div class="node"><div class="dot navy">4</div><div class="txt">
+        <div class="t">体制内逆袭 <span class="tag tag-peak">爬坡</span></div>
+        <div class="d">政府采购一线，每天加班到12点。第三年破格提拔最年轻中层 · CIO · "中心最强大脑"。</div>
+      </div></div>
+      <div class="node"><div class="dot red">5</div><div class="txt">
+        <div class="t">AI 落地爆发 <span class="tag tag-burst">爆发</span></div>
+        <div class="d">彩翼12智能体 · 准确率28%→98.5% · 支撑100亿交易额 · 多模态30台设备与CVTE联合部署。</div>
+      </div></div>
+      <div class="node"><div class="dot orange">6</div><div class="txt">
+        <div class="t">下一段曲线 <span class="tag tag-burst">进行中</span></div>
+        <div class="d">NUS AI for Science（拒了北大/港大/帝国理工）· Optiver AI Engineer 实习。主动跳出舒适圈。</div>
+      </div></div>
+    </div>
+  </div>
+</div>
+<script>
+const chart = echarts.init(document.getElementById('chart'));
+const years = ['小学\n高中班长','CGMO\n数学奥赛','高考\n148','中南\n本科','创业\n3校区','双减\n关停','采购\n一线','破格\nCIO','彩翼\n100亿','NUS\nOptiver'];
+const values = [6, 7.5, 6, 8.2, 8.8, 4.2, 5.5, 8.5, 9.6, 9.2];
+chart.setOption({
+  grid:{left:50,right:30,top:30,bottom:50},
+  tooltip:{trigger:'axis',backgroundColor:'rgba(11,37,69,.95)',borderWidth:0,textStyle:{color:'#fff',fontSize:13},
+    formatter:function(p){
+      const i=p[0].dataIndex;
+      const d=['班长 · 数学小公主 · 习惯做两边的桥','湖南联赛一等奖 · 全省4女生 · CGMO','数学148 · 未直通清北但自律终身受益','信管第一 · 国奖 · MCM M奖 · 礼仪队长','K12创业 · 3校区 · 50人 · 1500学员','双减 · 果断止损 · 考编过渡','一线办事员 · 每天加班到11-12点','最年轻中层 · 首席创新官','12智能体 · 28%→98.5% · 100亿','NUS AI硕士 · Optiver AI Engineer'];
+      return '<b>'+years[i].replace('\n',' ')+'</b><br/>'+d[i];
+    }},
+  xAxis:{type:'category',data:years,axisLabel:{fontSize:11,color:'#c9d6e8',interval:0,lineHeight:14},axisLine:{lineStyle:{color:'rgba(255,255,255,.2)'}},axisTick:{show:false}},
+  yAxis:{type:'value',min:0,max:10,name:'成长 · 挑战 · 影响力',nameTextStyle:{color:'#8aa0bd',fontSize:11},axisLabel:{show:false},splitLine:{lineStyle:{color:'rgba(255,255,255,.06)',type:'dashed'}}},
+  series:[{
+    type:'line',data:values,smooth:true,symbol:'circle',symbolSize:12,
+    lineStyle:{width:4,color:'#FFD966',shadowBlur:10,shadowColor:'rgba(255,217,102,.5)'},
+    itemStyle:{color:'#FFD966',borderColor:'#0B2545',borderWidth:3},
+    areaStyle:{color:new echarts.graphic.LinearGradient(0,0,0,1,[
+      {offset:0,color:'rgba(255,217,102,.3)'},{offset:1,color:'rgba(255,217,102,0)'}
+    ])},
+    markPoint:{symbol:'pin',symbolSize:46,label:{fontSize:10,fontWeight:'bold',color:'#0B2545'},data:[
+      {coord:[3,8.2],value:'高峰',itemStyle:{color:'#4CAF50'}},
+      {coord:[5,4.2],value:'低谷',itemStyle:{color:'#FF9800'}},
+      {coord:[8,9.6],value:'爆发',itemStyle:{color:'#E53935'}}
+    ]},
+    markLine:{silent:true,symbol:'none',lineStyle:{color:'rgba(255,255,255,.35)',type:'dashed',width:1.5},
+      label:{formatter:'总体趋势：每次回落都站得更高',color:'#FFD966',fontSize:11,position:'insideStartTop'},
+      data:[[{coord:[0,5.5]},{coord:[9,9.2]}]]}
+  }]
+});
+window.addEventListener('resize',()=>chart.resize());
+</script>
+</body>
+</html>
