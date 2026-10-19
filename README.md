@@ -304,7 +304,7 @@
 | [docs/awards.md](docs/awards.md) | 获奖与荣誉（15项） |
 | [docs/certificates.md](docs/certificates.md) | 证书与知识产权汇总（含扫描件） |
 | [docs/media-links.md](docs/media-links.md) | 媒体报道与公开链接 |
-| [life-curve.html](life-curve.html) | 人生曲线图 · My Life Curve（一条曲折上升的曲线） |
+| [人生曲线图 · My Life Curve](https://sheroisshero.github.io/resume-wuyuge/life-curve.html) | 一条曲折上升的曲线（在线交互页 · 新窗口打开） |
 
 ---
 
