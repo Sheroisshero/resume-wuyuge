@@ -93,6 +93,45 @@
 - **版权：** CC 4.0 BY-SA
 ---
 
+### 🤖 彩翼智能体协同管理平台 · 专题报道
+
+- **《AI赋能公共采购迈向专业化数智化，全国首个公共采购智能体协同管理平台落地广州》** — 广东省财政厅
+  [https://czt.gd.gov.cn/dfczxx/content/post_4701089.html](https://czt.gd.gov.cn/dfczxx/content/post_4701089.html)
+- **《广州探索“AI+政府采购”融合应用，彩翼平台已部署12个智能体》** — 南方+（南方日报客户端）
+  [https://static.nfnews.com/content/202607/21/c12646896.html](https://static.nfnews.com/content/202607/21/c12646896.html)
+- **广州市政府采购中心体制机制改革专题报道** — 百家号
+  [https://baijiahao.baidu.com/s?id=1851621162393547748&wfr=spider&for=pc](https://baijiahao.baidu.com/s?id=1851621162393547748&wfr=spider&for=pc)
+- **《广州首例！跨省应用独立单元格远程异地评审成功实施》** — 广州日报·新花城（2024-06-20）
+  [https://huacheng.gz-cmc.com/pages/2024/06/20/SF12159599235af279e84b457c971b12.html](https://huacheng.gz-cmc.com/pages/2024/06/20/SF12159599235af279e84b457c971b12.html)
+
+---
+
+### 🎥 多模态AI评标专家异常行为识别系统 · 专题报道
+
+- **《从“人盯人”到“AI辅助” 广东采购监管开启秒级追溯时代》** — 新快网
+  [https://www.xkb.com.cn/articleDetail/510041](https://www.xkb.com.cn/articleDetail/510041)
+- **《AI+采购！广东成立新一届标委会，打造全国数字采购“广东样板”》** — 南方+
+  [https://static.nfnews.com/content/202607/17/c12634750.html](https://static.nfnews.com/content/202607/17/c12634750.html)
+- **《当AI走进评标室，广东加快打造政府采购标准化智慧样本》** — 羊城晚报
+  [https://ycpai.ycwb.com/content/ikimvkltjl/content_54234095.html](https://ycpai.ycwb.com/content/ikimvkltjl/content_54234095.html)
+- **《AI上岗 为公共采购装上“智慧大脑”》** — 南方日报（2026-07-17 数字报）
+  [https://epaper.nfnews.com/nfdaily/html/202607/17/content_10175980.html](https://epaper.nfnews.com/nfdaily/html/202607/17/content_10175980.html)
+- **多模态AI评标系统视频报道** — 触电新闻（粤TV）
+  [https://m.itouchtv.cn/article/2ff39f5252fc74868c20fce7944e9c6e](https://m.itouchtv.cn/article/2ff39f5252fc74868c20fce7944e9c6e)
+- **多模态AI评标系统深度报道** — 微信公众号
+  [https://mp.weixin.qq.com/s?__biz=MzU2NjAwMzY2NQ==&mid=2247510712&idx=1&sn=9d4f71124829129366b98a48a41790bf](https://mp.weixin.qq.com/s?__biz=MzU2NjAwMzY2NQ==&mid=2247510712&idx=1&sn=9d4f71124829129366b98a48a41790bf)
+
+---
+
+### ✍️ 本人主笔文章 · 补充发布渠道
+
+- **《广州政采“亮真招”跑出“加速度”》**（中国政府采购报，2024-04-03）广东省财政厅官网转载：
+  [https://czt.gd.gov.cn/zfcg/content/post_4402228.html](https://czt.gd.gov.cn/zfcg/content/post_4402228.html)
+- **《借框采之力破医疗设备采购难题》** 百家号转载：
+  [https://m.baidu.com/bh/m/detail/ar_9571790899244026168](https://m.baidu.com/bh/m/detail/ar_9571790899244026168)
+
+---
+
 ## 📌 其他公开链接
 
 ### 项目相关
